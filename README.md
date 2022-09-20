@@ -8,4 +8,8 @@ The project is currently in a pre-alpha stage, but you can request help via this
 
 # Info
 
-Current Version: Build 1 PREALPHA
+Current Version: v0.1.0-prerel
+
+# Notes
+
+More information will be added here soon.
